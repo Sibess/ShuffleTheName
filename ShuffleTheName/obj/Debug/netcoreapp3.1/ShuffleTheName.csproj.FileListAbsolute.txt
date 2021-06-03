@@ -1,0 +1,13 @@
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ShuffleTheName.exe
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ShuffleTheName.deps.json
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ShuffleTheName.runtimeconfig.json
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ShuffleTheName.runtimeconfig.dev.json
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ShuffleTheName.dll
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ShuffleTheName.pdb
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ShuffleTheName.csprojAssemblyReference.cache
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ShuffleTheName.csproj.CoreCompileInputs.cache
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ShuffleTheName.AssemblyInfoInputs.cache
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ShuffleTheName.AssemblyInfo.cs
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ShuffleTheName.dll
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ShuffleTheName.pdb
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ShuffleTheName.genruntimeconfig.cache

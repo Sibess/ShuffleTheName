@@ -1,0 +1,13 @@
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Udemy free scourse.exe
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Udemy free scourse.deps.json
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Udemy free scourse.runtimeconfig.json
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Udemy free scourse.runtimeconfig.dev.json
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Udemy free scourse.dll
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Udemy free scourse.pdb
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Udemy free scourse.csproj.CoreCompileInputs.cache
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Udemy free scourse.AssemblyInfoInputs.cache
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Udemy free scourse.AssemblyInfo.cs
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Udemy free scourse.dll
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Udemy free scourse.pdb
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Udemy free scourse.genruntimeconfig.cache
+C:\Users\Siarhei\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Udemy free scourse.csprojAssemblyReference.cache
